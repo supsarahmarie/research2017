@@ -1,0 +1,7 @@
+monthly mean precipitation from GPCP:
+/data/zhuowang/b/zhuowang/Data/GPCP/precip.mon.mean.nc
+
+monthly mean zonal wind (uwnd) and relative humidity (rhum) from NCEP/DOE reanalysis:
+/data/zhuowang/b/zhuowang/Data/NNR2/monthly/uwnd.mon.mean.nc
+/data/zhuowang/b/zhuowang/Data/NNR2/monthly/rhum.mon.mean.nc
+*Note that the uwnd and rhum are available at different pressure levels and are thus 3D data (x, y, p).
